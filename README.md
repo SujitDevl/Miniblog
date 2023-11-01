@@ -1,4 +1,5 @@
-# Miniblog
-This blog is for writing thoughts and trending discussions. 
+# PandaBlog
+Hi guys,
+This is a simple blog for trending discussions, the Anime community, and personal thoughts.
 
-This blog is simply built with the help of HTML, CSS, and JS.
+Languages Used for this: HTML, CSS, and JavaScript 
