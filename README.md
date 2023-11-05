@@ -1,5 +1,3 @@
-# MiniBlog
-Hi guys,
-This is a simple blog for trending news & discussions, the Anime community, and personal thoughts.
-
-Languages Used for this: HTML, CSS, and JavaScript.
+#Miniblog
+This is a simple blog website for personal thoughts, Anime discussion, and trending news.
+Languages used: HTML, CSS, and JavaScript.
